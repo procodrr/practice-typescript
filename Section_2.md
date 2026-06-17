@@ -1,5 +1,7 @@
 # Section 2: TypeScript Fundamentals and Comipler Configuration
 
+## Table of Contents
+
 - [Section 2.1](#section-21)
 - [Section 2.2](#section-22)
 - [Section 2.3](#section-23)
